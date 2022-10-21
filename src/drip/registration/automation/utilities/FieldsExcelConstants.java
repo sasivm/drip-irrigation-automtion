@@ -7,7 +7,7 @@ public class FieldsExcelConstants {
 	public static final String FIELD_TYPE_TEXTBOX = "input";
 	public static final String FIELD_TYPE_DROPDOWN = "select";
 
-	public static final String EXCEL_FILE_PATH = "E:\\Drip_Irrigation";
+	public static final String EXCEL_FILE_PATH = "E:\\Drip_Irrigation_Customer_Data";
 	public static final String EXCEL_FILE_NAME = "DripRegistation.xlsx";
 	public static final String EXCEL_FILE_FULL_PATH = EXCEL_FILE_PATH + "\\" + EXCEL_FILE_NAME;
 	public static final String EXCEL_FILE_WORKSHEET_NAME = "Registration";
